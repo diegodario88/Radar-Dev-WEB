@@ -2,13 +2,13 @@
 <br />
 <p align="center">
   <a href="https://google.com/">
-    <img src="./react.svg" alt="Logo" width="600" height="300">
+    <img src="./logo.png" alt="Logo" width="600" height="400">
   </a>
 
   <h3 align="center">Radar Dev  WEB</h3>
 
   <p align="center">
-    Um modelo de SPA moderadamente opinativo criado com REACT.
+    Um projeto SPA criado com REACT.
     <br />
     
   </p>
@@ -28,8 +28,8 @@ Esse SPA faz parte do projeto OminiStack.
 + Minimal abstractions
 
 
-### Organization
-Each version of the API functions as a self-contained module, and therefore has its own ````package.json````, ````README````, and dependencies.
+### Print Screen
+<img align="center" src="./print.png" alt="Logo" width="1366" height="768">
 
 
 ### Install

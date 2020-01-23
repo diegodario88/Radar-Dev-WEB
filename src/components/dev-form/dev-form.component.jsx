@@ -40,6 +40,7 @@ function DevForm({ onSubmit }) {
                 longitude
             }
         })
+        console.log(adress);
 
         //set default fields
         setGithub_Username('')
