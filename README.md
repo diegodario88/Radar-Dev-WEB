@@ -29,7 +29,7 @@ Esse SPA faz parte do projeto OminiStack.
 
 
 ### Print Screen
-<img align="center" src="./print.png" alt="Logo" width="1366" height="768">
+<img align="center" src="./print.png" alt="Logo" width="900" height="500">
 
 
 ### Install
@@ -47,7 +47,7 @@ npm install
 npm start
 ````
 
-The API runs on port ````3000```` by default, and the root can be accessed by navigating to ````http://localhost:3000 in your browser.
+The API runs on port ````3000```` by default, and the root can be accessed by navigating to http://localhost:3000 in your browser.
 
 ### Author
 [Diego Dario](https://github.com/diegodario88).
